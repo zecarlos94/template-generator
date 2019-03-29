@@ -1,0 +1,22 @@
+{
+  "name": "agentifai-v3-templates",
+  "version": "1.0.0",
+  "description": "Creates HTML and SCSS templates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "HTML",
+    "SCSS",
+    "SASS",
+    "Template",
+    "Templates",
+    "Agentifai"
+  ],
+  "author": "José Carlos Brandão",
+  "license": "ISC",
+  "devDependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
