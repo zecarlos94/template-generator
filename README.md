@@ -8,8 +8,10 @@ After running ```ng generate component {componentName}``` you should run ```npm 
 
 ### TODO
 
+```
 const templates = require('agentifai-v3-templates');
 templates();
+```
 
 ## How To Install
 
