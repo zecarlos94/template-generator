@@ -4,14 +4,14 @@ This npm package allows the creation of HTML and SCSS files from templates for A
 
 ## How To Use
 
-After running ```ng generate component {componentName}``` you should run ```npm start``` and provide component's name when asked. The latter will create the HTML and SCSS barebones.
-
-### TODO
+After running ```ng generate component {componentName}``` you should run 
 
 ```
-const templates = require('agentifai-v3-templates');
-templates();
+const plugin = require('agentifai-v3-templates');
+plugin('ComponentNameDummy');
 ```
+
+The latter will create the HTML and SCSS barebones.
 
 ## How To Install
 
