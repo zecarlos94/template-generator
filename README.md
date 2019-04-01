@@ -8,4 +8,4 @@ After running ```ng generate component {componentName}``` you should run ```npm 
 
 ## How To Install
 
-Run ```npm i agentifai-v3-templates --save-dev``` to install this npm package in your Angular application.
+Run ```npm i agentifai-v3-templates --save-dev```(https://www.npmjs.com/package/agentifai-v3-templates) to install this npm package in your Angular application.
